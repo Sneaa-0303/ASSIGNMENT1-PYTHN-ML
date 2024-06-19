@@ -1,0 +1,3 @@
+str="hello how are you"
+str_to_list=list(str)
+print(str_to_list)

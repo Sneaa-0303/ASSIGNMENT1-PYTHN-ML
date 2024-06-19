@@ -1,0 +1,6 @@
+str="hellooo"
+if ("hel" in str):
+    print("yes")
+else:
+    print("no")    
+

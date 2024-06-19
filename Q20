@@ -1,0 +1,7 @@
+list1 = [41, 35, 17, 23, 29,23,4,12]
+
+
+total = sum(list1)
+ 
+
+print("Sum of all elements in given list: ", total)

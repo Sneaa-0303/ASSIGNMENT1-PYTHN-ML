@@ -1,0 +1,6 @@
+a=str(input("Enter the name of the file with .txt extension:"))
+ques5=open(a,'r')
+line=ques5.readline()
+
+line=ques5.readline()
+ques5.close()

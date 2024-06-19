@@ -1,0 +1,3 @@
+str=input("enter a string")
+str1=str.title()
+print("the titled string is", str1)

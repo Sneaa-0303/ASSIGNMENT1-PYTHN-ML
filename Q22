@@ -1,0 +1,8 @@
+def min_max(lst):
+    if not lst:
+        return None, None  # return None if the list is empty
+    return min(lst), max(lst)
+
+numbers = [10, 31, 45, 67, 24, 77, 99, 23]
+minimum, maximum = min_max(numbers)
+print(f"Minimum: {minimum}, Maximum: {maximum}")

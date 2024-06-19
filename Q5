@@ -1,0 +1,4 @@
+str=input("enter a string " )
+with open('ques5.txt', 'w') as file1:
+    file1.write(str)
+

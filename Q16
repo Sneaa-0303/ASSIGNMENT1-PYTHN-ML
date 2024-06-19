@@ -1,0 +1,14 @@
+str=input("enter a string")
+char_freq={}
+
+if char in char_freq:
+    char_freq[char]+=1
+else:
+    char_freq[char] =1
+       
+
+    
+
+
+
+
